@@ -37,7 +37,9 @@ This project demonstrates basic PHP functionality for outputting data using both
 
 ### Technical Details
    **Programming Language:** PHP
+   
    **Operations:** String concatenation, variable usage.
+   
    **Output:** Functions echo and print, HTML <br> tag for line breaks.
 
 ## Usage Examples
