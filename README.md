@@ -77,16 +77,16 @@ echo "Days: {$days}, Message is: {$message}";
 
 ## The Control Questions
 
-### What are the methods for installing PHP?
+### 1. What are the methods for installing PHP?
 
 1. Manual Installation from the official website.
 2. Using XAMPP (a free, open-source software package that provides an easy way to install and configure a local development environment for web development).
 
-### How to check if PHP is installed and working?
+### 2. How to check if PHP is installed and working?
 
 You can verify if PHP is installed and working by typing the following command in terminal: `php -v`.If PHP is installed, it will display the version of PHP installed on your system.
 
-### What is the difference between the `echo` and `print`?
+### 3. What is the difference between the `echo` and `print`?
 
 They are both used to output data to the screen. Although, the differences are:
 
