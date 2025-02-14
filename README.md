@@ -36,9 +36,9 @@ The goal of this lab work is to install and configure the development environmen
 This project demonstrates basic PHP functionality for outputting data using both the `echo` and `print` functions, working with variables, and displaying results using `string concatenation` as well as variable parsing with curly braces (`{}`). The project uses HTML for structuring the output and CSS for styling the page, creating a simple and visually pleasant output layout.
 
 ### Technical Details
-    - Programming Language: PHP
-    - Operations: String concatenation, variable usage.
-    - Output: Functions echo and print, HTML <br> tag for line breaks.
+   **Programming Language:** PHP
+   **Operations:** String concatenation, variable usage.
+   **Output:** Functions echo and print, HTML <br> tag for line breaks.
 
 ## Usage Examples
 
