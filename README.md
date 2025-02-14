@@ -15,8 +15,6 @@
    1.1 On GitHub, navigate to the main page of the repository.
 
    1.2 Above the list of files, click <> Code.
-
-   <img scr="https://docs.github.com/assets/cb-13128/mw-1440/images/help/repository/code-button.webp">
    
    1.3 Copy the URL for the repository.
 
