@@ -1,4 +1,4 @@
-# Laboratory Work №1: Installation and First PHP Program
+# Laboratory №1: Installation and First PHP Program
 
 ## Installation and Project Launch Instructions
  
